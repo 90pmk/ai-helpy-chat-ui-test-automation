@@ -1,4 +1,4 @@
-# AI Helpy Chat UI Test Automation
+# Elice AI Helpy Chat UI Test Automation & Refactoring
 
 AI Helpy Chat UI를 대상으로 Selenium과 Pytest 기반 End-to-End 테스트를 수행하는 QA 자동화 프로젝트입니다.
 
